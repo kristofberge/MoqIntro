@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoqIntroduction", "MoqIntroduction\MoqIntroduction.csproj", "{1CD77791-53BC-4714-B9DE-9A0A57E0CB99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoqIntroduction.Tests", "MoqIntroduction.Tests\MoqIntroduction.Tests.csproj", "{4B4124DE-A957-489B-B030-3927FDF539A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CD77791-53BC-4714-B9DE-9A0A57E0CB99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CD77791-53BC-4714-B9DE-9A0A57E0CB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CD77791-53BC-4714-B9DE-9A0A57E0CB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CD77791-53BC-4714-B9DE-9A0A57E0CB99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B4124DE-A957-489B-B030-3927FDF539A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B4124DE-A957-489B-B030-3927FDF539A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B4124DE-A957-489B-B030-3927FDF539A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B4124DE-A957-489B-B030-3927FDF539A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC75914E-131B-4747-8868-3758A25218FF}
+	EndGlobalSection
+EndGlobal
