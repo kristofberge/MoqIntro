@@ -1,2 +1,2 @@
 # MoqIntro
-A brief intro to mockng with Moq
+A brief intro to mocking with Moq
